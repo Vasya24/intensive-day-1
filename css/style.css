@@ -1,20 +1,17 @@
 .header {
-    width: 100%;
-    height: auto;
+    padding: 50px, 100px;
     background-color: #3bd6b1;
     border: 10px solid black;
     text-align: center;
 }    
 .main {
-    width: 100%;
-    height: auto;
+    padding: 100px;
     background-color: #ec9909;
     border: 10px solid black;
     text-align: center;
 }
 .footer {
-    width: 100%;
-    height: auto;
+    padding: 30px, 100px;
     background-color: #5c09ec;
     border: 10px solid black;
     text-align: center;
