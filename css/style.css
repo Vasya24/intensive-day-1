@@ -1,13 +1,16 @@
-<<<<<<< HEAD
 .header {
     width: 100%;
     height: 20%;
     background-color: #3bd6b1;
-=======
+}    
 .main {
     width: 100%;
     height: 70%;
     background-color: #ec9909;
->>>>>>> main
+}
+.footer {
+    width: 100%;
+    height: 10%;
+    background-color: #5c09ec;
     border: 10px solid black;
 }
