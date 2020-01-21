@@ -1,18 +1,23 @@
 .header {
-    padding: 50px, 100px;
-    background-color: #3bd6b1;
-    border: 10px solid black;
+    padding: 50px 100px;
     text-align: center;
-}    
+    background: #999;
+    font-size: 32px;
+    font-family: Sans-Serif;
+}
 .main {
+    background: lightgreen;
     padding: 100px;
-    background-color: #ec9909;
-    border: 10px solid black;
+    font-size: 38px;
+    color: #fff;
+    font-family: Sans-Serif;
     text-align: center;
 }
 .footer {
-    padding: 30px, 100px;
-    background-color: #5c09ec;
-    border: 10px solid black;
+    background: slategray;
+    padding: 30px 100px;
+    font-size: 32px;
+    color: #fff;
+    font-family: Sans-Serif;
     text-align: center;
 }
